@@ -1,5 +1,5 @@
 {
-  "name": "Spoken English Drill",
+  "name": "eD5d",
   "short_name": "ed5d",
   "start_url": "./",
   "display": "standalone",
@@ -8,13 +8,13 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "favn.png",
+      "src": "/favn.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon.png",
+      "src": "/icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
